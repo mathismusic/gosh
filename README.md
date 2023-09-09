@@ -1,0 +1,2 @@
+# gosh
+A minimal shell :)
