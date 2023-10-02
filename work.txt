@@ -1,0 +1,3 @@
+add support for calling mint (like calling bash). It will make a subshell etc.
+
+add support for "Are you sure [y]/n" when user does ctrl-c.
